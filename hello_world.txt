@@ -1,1 +1,3 @@
 this is a test where i practice using git commands
+
+now i'm trying out the new commit option to write messages in VSCode
